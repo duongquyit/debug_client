@@ -1,0 +1,17 @@
+cài đặt node: https://nodejs.org/en/
+mở terminal và cd vào project
+cài vue: 
+npm install -g @vue/cli
+# OR
+yarn global add @vue/cli
+
+kiểm tra xem đã cài thành công vue hay chưa
+vue --version
+
+cd vào thư mục server -> chạy chương trình bằng câu lệnh: npm run start
+
+cd vào thư mục client -> chạy chương trình bằng câu lệnh: npm run serve
+
+tài khoản admin:
+tk:duongquyit
+mk:123456
